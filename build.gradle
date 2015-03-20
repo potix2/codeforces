@@ -1,0 +1,12 @@
+apply {
+    plugin 'java'
+    plugin 'eclipse'
+    plugin 'idea'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
